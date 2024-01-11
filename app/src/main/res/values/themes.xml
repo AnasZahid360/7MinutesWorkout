@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <style name="Theme._7MinutesWorkout" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme._7MinutesWorkout" parent= "Theme.Material3.Light.NoActionBar" />
     
     <style name="ToolbarTheme" parent="@style/ThemeOverlay.MaterialComponents.ActionBar">
         <item name="colorControlNormal">@color/toolbar_color_control_normal</item>
